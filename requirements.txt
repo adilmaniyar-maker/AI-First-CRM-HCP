@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+email-validator
+python-dotenv
+groq
+langgraph
+langchain
+langchain-core
+langchain-groq
+python-multipart
+bcrypt
+passlib[bcrypt]
+python-jose
