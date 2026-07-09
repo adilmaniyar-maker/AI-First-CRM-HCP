@@ -195,3 +195,7 @@ Data Analyst | AI Developer | FastAPI | Python | SQL | LangGraph | Groq AI
 ---
 
 # ⭐ If you found this project useful, please consider giving it a Star.
+
+
+<img width="1882" height="907" alt="Screenshot 2026-07-09 224139" src="https://github.com/user-attachments/assets/590b2b6e-5d99-480f-9892-0f0997638abd" />
+
